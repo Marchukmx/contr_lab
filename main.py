@@ -1,4 +1,5 @@
-#1
+#4
 
-print("Привіт, світ!")
-
+ryadok = input("Введіть рядок:")
+for i in ryadok:
+    print(i)
